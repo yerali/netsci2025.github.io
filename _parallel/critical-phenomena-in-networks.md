@@ -1,6 +1,10 @@
----
-layout: parallel
-title: "Critical Phenomena In Networks"
-slug: critical-phenomena-in-networks
-permalink: /parallel/critical-phenomena-in-networks/
----
+  Session name: Critical Phenomena In Networks
+  Talk Order: '2'
+  Abstract ID: '298'
+  Presenter: Yérali Gandica
+  Talk title: Exploring Modular-to-Nested Transitions in Social Demonstrations
+  Abstract:  Social demonstrations are collective phenomena centred around a shared demand. From the perspective of the fields of complex systems and network science, these events are of particular interest due to the strong   correlations that emerge among participants. For instance, the structure of hashtag networks during several demonstrations, show a structural change shifting from a structure characterised by the presence of communities to a hierarchical pyramidal one, marked by high levels of nestedness.
+
+In two previous studies, we analysed weighted temporal (one-hour) networks of hashtags, where nodes are hashtags, and two nodes are connected if they were posted by the same individual within that hour. The underlying assumption is that linked nodes reflect thematic affinity between users. Subsequently, we used entropy-based metrics to analyse our one-hour temporal networks and found that the modular-to-nested transition can be found in the data without the explicit construction of networks-by using entropic indicators.
+
+In this talk, I aim to advance our understanding of these transitions by examining alternative network representations: specifically, user networks and bipartite networks. In the user networks, two nodes (users) are connected if they post the same hashtag during a given hour. In the bipartite networks all information is preserved, connecting users to hashtags. All of our networks are temporal and weighted. I  will present our most recent findings on the role of network centrality metrics in driving modular-to-nested transitions, the emergence of self-similarity in our networks of demonstrations at the critical point, and preliminary results on cumulative retweet networks. These insights offer new perspectives on the mechanisms shaping the evolution of collective behaviour during social demonstrations.
